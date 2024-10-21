@@ -3,4 +3,4 @@ let element = document.getElementById("Title");
 document.title = "This is a new title";
 
 const programName = "$0";
-programName.innerText = "Some Things You Need to Know about Data";
+programName.Textcontent = "Some Things You Need to Know about Data";
